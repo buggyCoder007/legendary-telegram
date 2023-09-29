@@ -4,7 +4,6 @@ import com.springboot.blog.entity.Role;
 import com.springboot.blog.entity.User;
 import com.springboot.blog.exception.BlogAPIException;
 import com.springboot.blog.payload.LoginDto;
-import com.springboot.blog.payload.RegisterDto;
 import com.springboot.blog.repository.RoleRepository;
 import com.springboot.blog.repository.UserRepository;
 import com.springboot.blog.security.JwtTokenProvider;

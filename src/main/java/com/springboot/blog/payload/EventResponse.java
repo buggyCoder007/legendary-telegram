@@ -2,7 +2,7 @@ package com.springboot.blog.payload;
 
 import java.util.List;
 
-public class PostResponse {
+public class EventResponse {
     private List<EventDto> content;
     private int pageNo;
     private int pageSize;
